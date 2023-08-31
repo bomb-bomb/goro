@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/ngryry/goro/internal"
+	"internal"
 	"golang.org/x/tools/imports"
 )
 
